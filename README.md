@@ -1,7 +1,7 @@
-This project demonstrates how to use ReactJS, 
-Redux, TypeScript, Webpack4, Ant Design, D3v5, ECharts and Mapbox. 
-It is also including two kinds of D3 force simulation demonstrations along with 
-gauge, which is based on my personal interest and previous project.
-
-Furthermore, this project also demonstrates how to deploy the web app to Google
-firebase, and use Google cloud function serverless platform with React frontend app.
+This project demostrates how to use ReactJS to single page application.
+It includes techniques as follow:
+1. Accept user input and store it in state variables(Also check if user input is empty).
+2. How to manage React state with arrays, such as add item in array, update item in array, delete item from array.s
+3. Use Array.map() to dynamically render elements to DOM.
+4. Use flex to arrange items.  
+ 
