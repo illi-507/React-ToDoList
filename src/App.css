@@ -85,11 +85,11 @@
 }
 
 .section2 button{
-
+  width: 30px;
   border-radius: 4px;
   background-color: #0066FF;
   color:#FFF;
-  border: 3px solid #0066FF;
+  border: 0px solid #0066FF;
 }
 
 .section2 ul{
