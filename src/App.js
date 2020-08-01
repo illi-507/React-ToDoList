@@ -5,7 +5,7 @@ import './App.css';
 
 const intialList =["item 1","item 2","item 3"];
 const List2 =["item 1","item 2","item 3"];
-const List3 =["item 1","item 2","item 3"];
+
 const initialIndex = [0,1,2];
 class toDoList extends React.Component{
    constructor(props){
